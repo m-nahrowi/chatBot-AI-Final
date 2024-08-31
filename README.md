@@ -1,5 +1,5 @@
 
-# Beginner Level Chat-Bot in React Native
+# Chat-Bot in React Native
 
 This project contains a basic level chat ui and you can chat with the gemini ai. 
 Ask Everything. I dont know how can you focus the gemini for the one project 
