@@ -9,13 +9,13 @@ Ask Everything. I dont know how can you focus the gemini for the one project
 Clone the project
 
 ```bash
-  git clone https://github.com/ErenElagz/Beginner-Chat-Bot-in-React-Native-Gemini
+  git clone https://github.com/m-nahrowi/chatBot-AI-Final.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Beginner-Chat-Bot-in-React-Native-Gemini
+  cd chatBot-AI-Final
 ```
 
 Install dependencies
